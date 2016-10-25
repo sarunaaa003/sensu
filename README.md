@@ -27,8 +27,8 @@ Use Docker Compose to deploy the stack to any Docker capable host.
 
 The default configuration maps the Uchiwa frontend to [http://localhost:3000](http://localhost:3000). Default credentials (*change those!*) are:
 
-- **User**: `hiro`
-- **Password**: `nakamura`
+- **User**: `sensu`
+- **Password**: `password`
 
 ### Add Your Own Checks
 
